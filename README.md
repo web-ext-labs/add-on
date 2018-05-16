@@ -1,0 +1,1 @@
+Simple Webextensions with VueJS
