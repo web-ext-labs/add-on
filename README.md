@@ -1,1 +1,1 @@
-Simple Webextensions with VueJS
+Cross Browser webextension with VueJS
