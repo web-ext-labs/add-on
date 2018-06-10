@@ -1,4 +1,4 @@
-[![Build Status](https://travis-ci.org/web-ext-labs/add-on.svg?branch=master)](https://travis-ci.org/web-ext-labs/add-on)
+[![Build Status](https://travis-ci.org/web-ext-labs/add-on.svg?branch=master)](https://travis-ci.org/web-ext-labs/add-on) [![Greenkeeper badge](https://badges.greenkeeper.io/web-ext-labs/add-on.svg)](https://greenkeeper.io/)
 
 # hackernews
 
